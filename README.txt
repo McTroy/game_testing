@@ -1,0 +1,1 @@
+For the game to run in the browser you need to use a local webserver 
